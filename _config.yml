@@ -1,11 +1,11 @@
 #
 # This file contains configuration flags to customize your site
 #
-
+go go
 # Name of your site (displayed in the header)
 name: "always1314"
 # Short bio or description (displayed in the header)
-description: "一个更好的平台
+description: "一个更好的平台"
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/fa
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
   - name: 首页
-    url: /
+    url: /blogvip.github.io
   - name: 关于
     url: /about
   - name: 归档
